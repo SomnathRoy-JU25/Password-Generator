@@ -1,1 +1,2 @@
-# Password-Generator.git.io
+# Password-Generator
+LIve :  https://mrsomnathroy.github.io/Password-Generator/
